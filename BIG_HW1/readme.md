@@ -1,1 +1,1 @@
-По техническим причинам не получается выложить ссылку на колаб. Прикреплю ее 16 числа утром
+Ссылка на колаб: https://colab.research.google.com/drive/1X_8gabV_h0_COdgTzENcmcFsJ6p-uOKM?usp=sharing
